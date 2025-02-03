@@ -40,6 +40,10 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2b%2b)
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
+
 
 
 
