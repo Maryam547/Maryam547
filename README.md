@@ -37,6 +37,7 @@
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c%23)
 ![ECMAScript](https://img.shields.io/badge/-ECMAScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
